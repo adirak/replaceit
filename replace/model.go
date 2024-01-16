@@ -2,6 +2,6 @@ package replace
 
 // ReplaceItem
 type ReplaceItem struct {
-	From string `structs:"from" json:"from" bson:"from"`
+	From string `structs:"fo" json:"fo" bson:"fo"`
 	To   string `structs:"to" json:"to" bson:"to"`
 }
