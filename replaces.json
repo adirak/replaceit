@@ -1,0 +1,54 @@
+[
+    {
+        "fo": "Dependency-Inspector-54bb5:8124/megw/apis/stream/microservice",
+        "to": "me-gateway-v4:8124/megw/apis/stream/Dependency-Inspector-54bb5"
+    },
+    {
+        "fo": "DeploymentRuntimeProperties-fbb4b:8124/megw/apis/stream/microservice",
+        "to": "me-gateway-v4:8124/megw/apis/stream/DeploymentRuntimeProperties-fbb4b"
+    },
+    {
+        "fo": "Document-Reader-876d0:8124/megw/apis/stream/microservice",
+        "to": "me-gateway-v4:8124/megw/apis/stream/Document-Reader-876d0"
+    },
+    {
+        "fo": "Document-Reader-Factory-dc253:8124/megw/apis/stream/microservice",
+        "to": "me-gateway-v4:8124/megw/apis/stream/Document-Reader-Factory-dc253"
+    },
+    {
+        "fo": "Testing-Inspector-78630:8124/megw/apis/stream/microservice",
+        "to": "me-gateway-v4:8124/megw/apis/stream/Testing-Inspector-78630"
+    },
+    {
+        "fo": "User-Inspector-29c68:8124/megw/apis/stream/microservice",
+        "to": "me-gateway-v4:8124/megw/apis/stream/User-Inspector-29c68"
+    },
+    {
+        "fo": "flow-advance:8124/megw/apis/node/microservice",
+        "to": "me-gateway-v4:8124/megw/apis/node/flow-advance"
+    },
+    {
+        "fo": "genx-gcl:8124/megw/apis/node/microservice",
+        "to": "me-gateway-v4:8124/megw/apis/node/genx-gcl"
+    },
+    {
+        "fo": "center-property:8124/megw/apis/node/microservice",
+        "to": "me-gateway-v4:8124/megw/apis/node/center-property"
+    },
+    {
+        "fo": "filter-advance:8124/megw/apis/node/microservice",
+        "to": "me-gateway-v4:8124/megw/apis/node/filter-advance"
+    },
+    {
+        "fo": "user-manager:8124/megw/apis/node/microservice",
+        "to": "me-gateway-v4:8124/megw/apis/node/user-manager"
+    },
+    {
+        "fo": "flow-testing:8124/megw/apis/node/microservice",
+        "to": "me-gateway-v4:8124/megw/apis/node/flow-testing"
+    },
+    {
+        "fo": "center-utilities:8124/megw/apis/node/microservice",
+        "to": "me-gateway-v4:8124/megw/apis/node/center-utilities"
+    }
+]

@@ -1,0 +1,6 @@
+# Application
+app:
+  name: ReplaceIt
+  desc: Appliecation to replace config string by recursively matching
+  ver: 1.0.0
+
